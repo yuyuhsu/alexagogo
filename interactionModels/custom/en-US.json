@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "golden doggy dog",
+            "invocationName": "golden doggy dog brother",
             "intents": [
                 {
                     "name": "AMAZON.CancelIntent",
